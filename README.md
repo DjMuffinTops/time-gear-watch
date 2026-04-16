@@ -5,11 +5,12 @@
 
  The watch face features a Time Gear that ticks with each second, as well as a rotating hour and minute hand. The hour/minute hands and the rest of the time gear pattern alternate in opacity to create a glow in and out effect. Every 30 seconds the watch background changes as well. Perfect for any adventuring explorer!
 <p>
-  <img src="./assets/example1.gif" width="32%" />
-  <img src="./assets/example2.gif" width="32%" />
-  <img src="./assets/example3.gif" width="32%" />
+  <img src="./assets/example1.gif" width="40%" />
+  <img src="./assets/example2.gif" width="40%" />
+  <img src="./assets/example4.gif" width="40%" />
+  <img src="./assets/example3.gif" width="40%" />
 </p>
-
+The colors are a bit washed out in the gifs, but they look much more vibrant on the watch! I use a Pixel Watch 3.
 
 
 ## Loading the Project
@@ -17,7 +18,7 @@ You will need Watch Face Studio to load this project. It can be downloaded here:
 
 Once installed, open the application and select `File -> Open Project` and open `timegear.wfs`.
 
-## Loading it onto your WearOS Watch
+## Loading it onto your Watch with Watch Face Studio
 
 **For the easiest directions, you can follow this youtube tutorial starting from 1:39. https://youtu.be/sF3us77rbdc?si=8M9ulIMDcbyEWGuQ&t=99**
 
